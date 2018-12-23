@@ -1,0 +1,1 @@
+module.exports = require('express')().listen(3000);
